@@ -1,3 +1,8 @@
+# EX NO: Cloud-account-set-up-and-services
+
+Name : Kamali E
+Reg no: 212222110015
+
 # Aim:
 To create an cloud account in AWS and to explore all of its services.
 
